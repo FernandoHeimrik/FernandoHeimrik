@@ -7,7 +7,7 @@ Sou um Desenvolvedor de Software :computer:
 
 - 🔭 &nbsp; Estou trabalhando no **CITS - Centro Internacional de Tecnologia de Software**
 - 🌱 &nbsp; Atualmente estou aprendendo React, Flutter, Docker
-- 👯 &nbsp Buscando colaborar com projetos em Front-end e Back-end; 
+- 👯 &nbsp; Buscando colaborar com projetos em Front-end e Back-end; 
 - :computer: &nbsp; Minha stack: Java, Spring Framework, Angular & Typescript
 - 💬  &nbsp; Sobre mim: Pai do Samuel, curto tecnologias e games 
 - :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FernandoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-henrique-288987104)](https://www.linkedin.com/in/fernando-henrique-288987104) 
